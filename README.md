@@ -99,8 +99,8 @@
 
 ## ✨资源链接
 
-1. [Github]()
-2. [GitCode]()
+1. [Github](https://github.com/Themilkyway01/Titanic-Disaster-0.76315-score)
+2. [GitCode](https://gitcode.com/Galaxy_zero/Titanic-Disaster-0.76315-score)
 3. Kaggle（未上传，将会持续优化模型）
 
 **感谢大家的观看！**
