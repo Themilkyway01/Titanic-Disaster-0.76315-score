@@ -1,4 +1,4 @@
-# 泰坦尼克号-灾难中的机器学习
+# 🚢泰坦尼克号-灾难中的机器学习
 **（仅用逻辑回归，0.76315 score）**
 
 ![](./img/1.png)
@@ -21,7 +21,7 @@
 >2. [#姓氏推断国籍#](https://yuewen.cn/share/215422851687354368?utm_source=share&utm_content=web_linkcopy&version=2)
 >3. [#年龄分层#](https://www.quark.cn/s?from=kkframenew_resultsearch&uc_param_str=ntnwvepffrbiprsvchutosstxs&by=submit&q=%E5%B9%B4%E9%BE%84%E5%88%86%E5%B1%82&queryId=1twcN8jL0881fPoVceSIGIPf8Yv2bcK6YF9YVF7FvjDPpdqC4UMajfaD1b32b4929c2)
 
-## 项目展示
+## 🚀项目展示
 
 ![](./img/score2.png)
 
